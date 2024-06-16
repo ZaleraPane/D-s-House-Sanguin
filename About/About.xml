@@ -21,11 +21,9 @@
     <li>Ludeon.RimWorld.Royalty</li>
     <li>Ludeon.RimWorld.Ideology</li>
     <li>Ludeon.RimWorld.Biotech</li>
-    <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
     <li>DankPyon.Medieval.Overhaul</li>
     <li>Sierra.RF.MedievalOverhaul</li>
     <li>Dylan.AnimalGear</li>
-    <li>OskarPotocki.VanillaFactionsExpanded.MedievalModule</li>
     <li>syrchalis.processor.framework</li>
   </loadAfter>
 
